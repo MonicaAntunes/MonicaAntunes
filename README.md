@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá! Eu sou a Monica Antunes
 
-<!--
-**MonicaAntunes/MonicaAntunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estagiando em desenvolvimento de software com linguagem ABAP e sistema SAP
+- 🌱 Estudando Node.js e CAP
+- 📫 Contate-me no email: monicaantuneswin@gmail.com
+- 😄 Pronomes: ela/dela
 
-Here are some ideas to get you started:
+<div>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> 
+  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+</div>
+
+<div>
+  <a href="https://bracons.ai/MonicaAntunes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MonicaAntunes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaAntunes&layout=compact&langs_count16&theme=radical"/>
+</div>
