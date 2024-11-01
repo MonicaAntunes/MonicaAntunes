@@ -1,6 +1,7 @@
 ## Olá! Eu sou a Monica Antunes
 
 - 🔭 Atualmente estagiando em desenvolvimento de software com linguagem ABAP e sistema SAP
+- ☕ Conhecimento e experiência em JAVA
 - 🌱 Estudando Node.js e CAP
 - 📫 Contate-me no email: monicaantuneswin@gmail.com
 - 😄 Pronomes: ela/dela
