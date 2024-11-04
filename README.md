@@ -1,5 +1,9 @@
 ## Olá! Eu sou a Monica Antunes
 
+<div>
+  https://www.linkedin.com/in/monica-antunes-da-silva/
+</div>
+
 - 🔭 Atualmente estagiando em desenvolvimento de software com linguagem ABAP e sistema ERP SAP
 - ☕ Conhecimento e experiência em JAVA
 - 🌱 Estudando Node.js e CAP
